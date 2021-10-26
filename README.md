@@ -4,7 +4,7 @@ The current version here demos the scraper for the works of old masters between 
 
 ## Usage
 Simply run the script through the latest version of RStudio to proceed with the scraping process.
-Note that the scraping speed is very slow. This was done intentionally so as to not abuse the altruistic access provided by the WikiArt foundation and its volunteers (plus,I wasn't using it for any realtime project so wasn't in a rush to wait out the job).
+Note that the scraping speed is very slow. This was done intentionally so as to not abuse the altruistic access provided by the WikiArt foundation and its team of volunteers (plus,I wasn't using it for any realtime project so wasn't in a rush to wait out the job).
 
 ### Dependencies
 - `tidyverse` : data munging
